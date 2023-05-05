@@ -26,6 +26,6 @@ Follow the https://docs.flutter.dev/get-started/install/linux
 ## Run 
 - flutter doctor
 - flutter pub get
-to clean up your environment.
 
-## Run flutter run to start the development.
+
+## flutter run to start the development.
