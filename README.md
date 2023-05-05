@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ## Installing Flutter on your local system: 
-Follow the {Link}[https://docs.flutter.dev/get-started/install/linux]
+Follow the [Link][https://docs.flutter.dev/get-started/install/linux]
